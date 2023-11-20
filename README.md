@@ -1,0 +1,1 @@
+# bunjs-test-adapter
